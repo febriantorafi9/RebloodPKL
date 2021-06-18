@@ -1,0 +1,23 @@
+{
+  "name": "RebloodPKL",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nuxt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/febriantorafi9/RebloodPKL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/febriantorafi9/RebloodPKL/issues"
+  },
+  "homepage": "https://github.com/febriantorafi9/RebloodPKL#readme",
+  "dependencies": {
+    "nuxt": "^2.15.7"
+  }
+}
