@@ -1,3 +1,6 @@
 <template>
-	<h1>SSS</h1>
+	<v-toolbar
+	color="red"
+	dense
+	></v-toolbar>
 </template>
