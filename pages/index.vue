@@ -1,6 +1,5 @@
 <template>
-	<v-toolbar
-	color="red"
-	dense
-	></v-toolbar>
+	<div>
+	
+	</div>
 </template>
